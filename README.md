@@ -1,4 +1,4 @@
 # 1g-Backend-Django
-Fechas: 18 Agosto - 9 Octubre
+Fechas: 21 Agosto - 9 Octubre
 
 Modalidad: Lunes a Miercoles
