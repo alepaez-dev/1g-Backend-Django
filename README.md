@@ -1,5 +1,5 @@
 # 1g-Backend-Django
-Fechas: 21 Agosto - 3 Octubre
+Fechas: 22 Agosto - 3 Octubre
 
 20 clases
 
