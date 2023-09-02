@@ -7,7 +7,7 @@ Modalidad: Lunes a Miercoles
 - Clase 1 -> Que es Django ? ✔️
 - Clase 2 -> Estructura de un proyecto y de apps ✔️
 - Clase 3 -> Urls y enrutamiento, views (functionals) ✔️
-- Clase 4 -> Templates, Inheritance templates (frontend) ✔️
+- Clase 4 -> Templates, Inheritance templates, Django Template Language (frontend) ✔️
 - Clase 5 -> Models, ORM, Shell de Django, Migrations ✔️
 
 PROX:
