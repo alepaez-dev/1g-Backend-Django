@@ -11,5 +11,6 @@ Modalidad: Lunes a Miercoles
 - Clase 5 -> Models, ORM, Shell de Django, Migrations ✔️
 
 PROX:
-- Clase 6 -> QuerySets.
-- Clase 7 -> PostgreSQL implementation, re-estructuracion de un proyecto.
+- Clase 6 -> QuerySets. ✔️
+- Clase 7 -> PostgreSQL implementation, re-estructuracion de un proyecto. ✔️
+- Clase 8 -> Class views (View, TemplateView) ✔️
