@@ -12,3 +12,6 @@ Modalidad: Lunes a Miercoles
 - Clase 6 -> QuerySets. ✔️
 - Clase 7 -> PostgreSQL implementation, re-estructuracion de un proyecto. ✔️
 - Clase 8 -> Class views (View, TemplateView) ✔️
+- Clase 9 -> ListView, DetailView, Reversed Urls ✔️
+- Clase 10 -> CreateView, UpdateView, Django Forms 
+- Clase 11 -> Django Admin Customization, Permissions 
