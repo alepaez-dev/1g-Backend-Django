@@ -15,3 +15,6 @@ Modalidad: Lunes a Miercoles
 - Clase 9 -> ListView, DetailView, Reversed Urls ✔️
 - Clase 10 -> CreateView, UpdateView, Django Forms ✔️
 - Clase 11 -> Django Admin Customization, Permissions ✔️
+- Clase 12 -> Django Auth ✔️
+- Clase 13 -> Django Rest Framework ✔️
+- Clase 14 -> last day burnout :( 
