@@ -1,7 +1,5 @@
 # 1g-Backend-Django
-Fechas: 22 Agosto - 3 Octubre
-
-20 clases
+Fechas: 22 Agosto - 3 Oct
 
 Modalidad: Lunes a Miercoles
 - Clase 1 -> Que es Django ? ✔️
@@ -17,4 +15,4 @@ Modalidad: Lunes a Miercoles
 - Clase 11 -> Django Admin Customization, Permissions ✔️
 - Clase 12 -> Django Auth ✔️
 - Clase 13 -> Django Rest Framework ✔️
-- Clase 14 -> last day burnout :( 
+- Clase 14 -> Django Rest Framwork Generic Views (last day burnout)
