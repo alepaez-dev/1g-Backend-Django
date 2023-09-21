@@ -15,4 +15,4 @@ Modalidad: Lunes a Miercoles
 - Clase 11 -> Django Admin Customization, Permissions ✔️
 - Clase 12 -> Django Auth ✔️
 - Clase 13 -> Django Rest Framework ✔️
-- Clase 14 -> Django Rest Framwork Generic Views (last day burnout)
+- Clase 14 -> Django Rest Framwork Generic Views (last day burnout) ✔️
